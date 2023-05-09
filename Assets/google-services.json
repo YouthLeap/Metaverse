@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "297932506676",
+    "firebase_url": "https://metaruffy-e960f-default-rtdb.firebaseio.com",
+    "project_id": "metaruffy-e960f",
+    "storage_bucket": "metaruffy-e960f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297932506676:android:314b68b88f89046479ac61",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RUFFYCOIN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297932506676-ok0h02520nm5cj0nq71qps5htsugj44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnJXUumlnWXTkHX1WL7DUM8f3wxjokKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297932506676-ok0h02520nm5cj0nq71qps5htsugj44a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297932506676-2p1co2kes5lv6d8mtoumusdnbub1alrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RuffyWorld.RuffyWorld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297932506676:android:32e7b98b8b77a70f79ac61",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RuffyWorld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297932506676-ok0h02520nm5cj0nq71qps5htsugj44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnJXUumlnWXTkHX1WL7DUM8f3wxjokKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297932506676-ok0h02520nm5cj0nq71qps5htsugj44a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297932506676-2p1co2kes5lv6d8mtoumusdnbub1alrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RuffyWorld.RuffyWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

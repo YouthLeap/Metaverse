@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 46fa3720290954241be92ef64a458816
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7008296336672895754
+    second: rig|Armature|mixamo.com|Layer0
+  - first:
+      74: 5840054887617958957
+    second: label_r|Armature|mixamo.com|Layer0
+  - first:
+      74: -1591434382885041316
+    second: label_size.001|Armature|mixamo.com|Layer0
+  - first:
+      74: -1612172295885450597
+    second: label_size|Armature|mixamo.com|Layer0
+  - first:
+      74: -4602868805392687404
+    second: label_size.002|Armature|mixamo.com|Layer0
+  - first:
+      74: 6265100838362343854
+    second: label_size.003|Armature|mixamo.com|Layer0
+  - first:
+      74: 3071558846353695680
+    second: label_001|Armature|mixamo.com|Layer0
+  - first:
+      74: -997823230748303059
+    second: label_jaw_r|Armature|mixamo.com|Layer0
+  - first:
+      74: 1339285561346681260
+    second: label_se|Armature|mixamo.com|Layer0
+  - first:
+      74: -1478246522437340926
+    second: label_002|Armature|mixamo.com|Layer0
+  - first:
+      74: -8107789291977521919
+    second: label_la|Armature|mixamo.com|Layer0
+  - first:
+      74: -8097353818821796441
+    second: label_m|Armature|mixamo.com|Layer0
+  - first:
+      74: -6875073717279063723
+    second: label_004|Armature|mixamo.com|Layer0
+  - first:
+      74: -5128235327177278300
+    second: label_eyela|Armature|mixamo.com|Layer0
+  - first:
+      74: -8809077298079670835
+    second: label_mouth|Armature|mixamo.com|Layer0
+  - first:
+      74: 6389778469858202469
+    second: label_lips_width|Armature|mixamo.com|Layer0
+  - first:
+      74: -9049275297667455295
+    second: label_lipss_widt|Armature|mixamo.com|Layer0
+  - first:
+      74: -6023326686889289841
+    second: label_003|Armature|mixamo.com|Layer0
+  - first:
+      74: 9222003635127294225
+    second: label|Armature|mixamo.com|Layer0
+  - first:
+      74: -7372960434939329258
+    second: label_t|Armature|mixamo.com|Layer0
+  - first:
+      74: 8262669970492608966
+    second: label_fk_l.001|Armature|mixamo.com|Layer0
+  - first:
+      74: 3077467220548320799
+    second: label_ik_l.001|Armature|mixamo.com|Layer0
+  - first:
+      74: -2025889734968084840
+    second: label_ik_l|Armature|mixamo.com|Layer0
+  - first:
+      74: 5259122198090845244
+    second: label_fk_l|Armature|mixamo.com|Layer0
+  - first:
+      74: 6729185377007553092
+    second: label_fk_a.001|Armature|mixamo.com|Layer0
+  - first:
+      74: 4609183756704376316
+    second: label_ik_a.001|Armature|mixamo.com|Layer0
+  - first:
+      74: -1324727759726613060
+    second: label_ik_a|Armature|mixamo.com|Layer0
+  - first:
+      74: -7369301926043082808
+    second: label_fk_a|Armature|mixamo.com|Layer0
+  - first:
+      74: -7262867086344420629
+    second: cs_c_eye_offset|Armature|mixamo.com|Layer0
+  - first:
+      74: -6067344158078112093
+    second: cs_c_eyelid_micro|Armature|mixamo.com|Layer0
+  - first:
+      74: -3966355016575565191
+    second: cs_plane_5|Armature|mixamo.com|Layer0
+  - first:
+      74: -6714323864768582415
+    second: cs_c_eye|Armature|mixamo.com|Layer0
+  - first:
+      74: -7634132112655582702
+    second: cs_plane_4_fill|Armature|mixamo.com|Layer0
+  - first:
+      74: -1327251136089319105
+    second: cs_solid_plane_5_blue|Armature|mixamo.com|Layer0
+  - first:
+      74: 4857061744359605717
+    second: cs_solid_plane_5_red|Armature|mixamo.com|Layer0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea_SHD
+    second: {fileID: 2100000, guid: 7495a6ef0e450cd49b935d6d60a35764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeBall_SHD
+    second: {fileID: 2100000, guid: 5521fdf13d8c9dd42a3b0246a96b0ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e937595ec24224444b10d523ad18f317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 39b7d38bbd646cd4bab6cb83a32f2bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth_shd
+    second: {fileID: 2100000, guid: 046dfa50d0dba2841912ec029eb588eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_buttons
+    second: {fileID: 2100000, guid: 3b521ef87a77ef244961f50ff0557b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_solid_black
+    second: {fileID: 2100000, guid: c1b565813e425e248ba0416d12fa555e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_solid_blue
+    second: {fileID: 2100000, guid: 1d5ab84ccf81b7e41b1cc44ace6107c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_solid_green
+    second: {fileID: 2100000, guid: 0446a70268dc24b4385582efdc0ee2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_solid_grey
+    second: {fileID: 2100000, guid: 69883b7e08e7a414e9c56145265369af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_solid_red
+    second: {fileID: 2100000, guid: 0449ae51f40bdba4b99c1f9f379830d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_text
+    second: {fileID: 2100000, guid: 58027567b4007fc4faeee04c31f790f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cs_ui
+    second: {fileID: 2100000, guid: 95ac1f5c07ce44e41ae0dde908e82e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: e80ba96fef201ad4d82c344f0f72c160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: 3d948597a8ad5184090062da681eec22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt
+    second: {fileID: 2100000, guid: 5a1c8c25dff89e748994506153eb9b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin_shd
+    second: {fileID: 2100000, guid: 3e8e540f13a8e3c49a20eaec7329a4c2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric Angled Woven Strands
+    second: {fileID: 2800000, guid: 8a33a68263b7a654280524e158c64150, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_fox
+    second: {fileID: 2800000, guid: 348d4593208816840bf0048c3c50f29b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fox_hair
+    second: {fileID: 2800000, guid: 08625c9ccca99664f9ced9ab2bebe9d2, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
